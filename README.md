@@ -1,14 +1,15 @@
 # Informatik
 Et repository med alle de ting vi har lavet i informatik
 
-## Pascal Trekant
-vi lavede en pascal terekant:
+## Serpinski Trekant
+vi lavede en serpinski terekant:
 **https://editor.p5js.org/JamesPness/sketches/PXVOpkwTl**
 det var meget fedt.
 
 ## Cypher/dechyper
 Så lavede vi noget med kryptering:
 **https://editor.p5js.org/JamesPness/sketches/mdiv5zeGN**
+også meget fedt.
 
 ## 3D
 ![image](https://github.com/user-attachments/assets/51f2322c-eb4e-439e-9c2a-0def05470f3f)
