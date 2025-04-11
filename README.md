@@ -2,9 +2,10 @@
 Et repository med alle de ting vi har lavet i informatik
 
 ## Serpinski Trekant
-vi lavede en serpinski terekant:
+Vi lavede en serpinski terekant:
 **https://editor.p5js.org/JamesPness/sketches/PXVOpkwTl**
-det var meget fedt.
+det var meget fedt. Konceptet er ret enkelt. Tegn 3 punkter, vælg et tilfældigt punkt inden i trekanten tegnet af de 3 første. Vælge nu et tilfældigt af de 3 hjørner og tegn et punkt halvejs imellem hjørnet og punktet. Vælg nu et tilfældig hjørne igen og fortsæt processen med det nyeste tegnede punkt.
+
 
 ## Cypher/dechyper
 Så lavede vi noget med kryptering:
